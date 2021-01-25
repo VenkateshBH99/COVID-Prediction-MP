@@ -1,6 +1,6 @@
 # COVID-Prediction-MP
 
-###Link for the model:
+### Link for the model:
 
 https://drive.google.com/file/d/1-U2XbVz5wxkgmw92jGCGayDTs8AlMXsQ/view?usp=sharing
 
